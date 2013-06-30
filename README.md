@@ -5,7 +5,7 @@ These are the design files for the TinyCircuits ASM2101 Rev 2 PCB.  This is a Ti
 
 Format is in Cadsoft Eagle format - Eagle version 6.2 was used for the original design.
 
-For more infomation on this, check out the product page at Tiny-Circuits.com:  http://tiny-circuits.com/products/asm2101
+For more infomation on this, check out the product page at Tiny-Circuits.com:  http://tiny-circuits.com/shop/6458/
 
 
 
