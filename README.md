@@ -1,15 +1,15 @@
 # TinyCircuits TinyLily Mini Processor Board
-# ASM2101 Rev3
+# ASM2101 Rev4
 
-These are the design files for the TinyCircuits ASM2101 Rev 3 PCB.  This is a Tiny processor board (Circular 14mm diameter) that uses the same microcontroller (Atmel Atmega328P) as the Arduino LilyPad.
+Thhe design files are located under design_files/ for the TinyCircuits ASM2101 Rev 4 PCB.  This is a Tiny processor board (Circular 14mm diameter) that uses the same microcontroller (Atmel Atmega328P) as the Arduino LilyPad.
 
 Format is in Cadsoft Eagle format - Eagle version 6.2 was used for the original design.
 
-For more infomation on this, check out the product page at Tiny-Circuits.com:  https://tiny-circuits.com/tiny-lily-mini-processor.html
+For more infomation on this, check out the product page at TinyCircuits.com: https://tinycircuits.com/collections/tinylily/products/tinylily-mini-processor
 
 
 
-#License:
+# License:
 
 Design by TinyCircuits.
 All design files are released under the Creative Commons Attribution Share-Alike 3.0 License, see the following link for details: http://creativecommons.org/licenses/by-sa/3.0
